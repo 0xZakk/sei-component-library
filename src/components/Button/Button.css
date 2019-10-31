@@ -1,0 +1,16 @@
+button {
+  border-radius: 2px;
+  padding: 5px 25px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.button-primary {
+  background-color: #0069d9;
+  color: white;
+  border: #0069d9;
+}
+
+.button-large {
+  padding: 10px 50px;
+}
